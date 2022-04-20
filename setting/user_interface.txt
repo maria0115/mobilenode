@@ -1,0 +1,252 @@
+PUT _template/user_interface
+{
+    "order" : 1,
+    "index_patterns" : [
+      "user_interface"
+    ],
+    "settings" : {
+      "index" : {
+        "max_result_window" : "20000000",
+        "refresh_interval" : "1s",
+        "analysis" : {
+          "filter" : {
+            "shampoo_custom_stop_filter" : {
+              "type" : "stop",
+              "stopwords_path" : "stopwords.dat"
+            },
+            "shampoo_word_delimiter" : {
+              "generate_word_parts" : "true",
+              "type" : "word_delimiter",
+              "generate_number_parts" : "true"
+            },
+            "shampoo_bigrams_filter" : {
+              "type" : "cjk_bigram"
+            },
+            "shampoo_english_stemmer_filter" : {
+              "name" : "english",
+              "type" : "stemmer"
+            }
+          },
+          "char_filter" : {
+            "shampoo_cjk_suffix_filter" : {
+              "pattern" : """([\\u1100-\\u11FF\\u3130-\\u318F\\uAC00-\\uD7AF\\u2E80-\\u2EFF\\u31C0-\\u31EF\\u3200-\\u32FF\\u3400-\\u4DBF\\u4E00-\\u9FBF\\uF900-\\uFAFF\\u3040-\\u309F\\u30A0-\\u30FF\\u31F0-\\u31FF])([^\\s\\u1100-\\u11FF\\u3130-\\u318F\\uAC00-\\uD7AF\\u2E80-\\u2EFF\\u31C0-\\u31EF\\u3200-\\u32FF\\u3400-\\u4DBF\\u4E00-\\u9FBF\\uF900-\\uFAFF\\u3040-\\u309F\\u30A0-\\u30FF\\u31F0-\\u31FF])""",
+              "type" : "pattern_replace",
+              "replacement" : "$1 $2"
+            },
+            "shampoo_cjk_prefix_filter" : {
+              "pattern" : """([^\\s\\u1100-\\u11FF\\u3130-\\u318F\\uAC00-\\uD7AF\\u2E80-\\u2EFF\\u31C0-\\u31EF\\u3200-\\u32FF\\u3400-\\u4DBF\\u4E00-\\u9FBF\\uF900-\\uFAFF\\u3040-\\u309F\\u30A0-\\u30FF\\u31F0-\\u31FF])([\\u1100-\\u11FF\\u3130-\\u318F\\uAC00-\\uD7AF\\u2E80-\\u2EFF\\u31C0-\\u31EF\\u3200-\\u32FF\\u3400-\\u4DBF\\u4E00-\\u9FBF\\uF900-\\uFAFF\\u3040-\\u309F\\u30A0-\\u30FF\\u31F0-\\u31FF])""",
+              "type" : "pattern_replace",
+              "replacement" : "$1 $2"
+            }
+          },
+          "analyzer" : {
+            "my_customer_ngram_analyzer" : {
+              "filter" : [
+                "lowercase",
+                "classic",
+                "trim"
+              ],
+              "tokenizer" : "my_customer_ngram_tokenizer"
+            },
+            "shampoo_search_analyzer" : {
+              "filter" : [
+                "shampoo_word_delimiter",
+                "lowercase",
+                "classic",
+                "shampoo_custom_stop_filter",
+                "shampoo_english_stemmer_filter",
+                "shampoo_bigrams_filter"
+              ],
+              "char_filter" : [
+                "shampoo_cjk_prefix_filter",
+                "shampoo_cjk_suffix_filter"
+              ],
+              "type" : "custom",
+              "tokenizer" : "standard"
+            },
+            "shampoo_index_analyzer" : {
+              "filter" : [
+                "shampoo_word_delimiter",
+                "lowercase",
+                "classic",
+                "trim",
+                "shampoo_custom_stop_filter",
+                "shampoo_english_stemmer_filter",
+                "shampoo_bigrams_filter"
+              ],
+              "char_filter" : [
+                "html_strip",
+                "shampoo_cjk_prefix_filter",
+                "shampoo_cjk_suffix_filter"
+              ],
+              "type" : "custom",
+              "tokenizer" : "standard"
+            }
+          },
+          "tokenizer" : {
+            "my_customer_ngram_tokenizer" : {
+              "type" : "ngram"
+            }
+          }
+        },
+        "number_of_shards" : "5",
+        "number_of_replicas" : "0"
+      }
+    },
+    "mappings" : {
+      "properties" : {
+        "deviceKind" : {
+          "type" : "keyword",
+          "fields" : {
+            "contains" : {
+              "type" : "text"
+            },
+            "search" : {
+              "search_analyzer" : "my_customer_ngram_analyzer",
+              "analyzer" : "my_customer_ngram_analyzer",
+              "type" : "text"
+            }
+          }
+        },
+        "appVersion" : {
+          "type" : "keyword",
+          "fields" : {
+            "contains" : {
+              "type" : "text"
+            },
+            "search" : {
+              "search_analyzer" : "my_customer_ngram_analyzer",
+              "analyzer" : "my_customer_ngram_analyzer",
+              "type" : "text"
+            }
+          }
+        },
+        "created" : {
+          "format" : "yyyyMMdd'T'HHmmss",
+          "type" : "date"
+        },
+        "reader" : {
+          "type" : "keyword",
+          "fields" : {
+            "contains" : {
+              "type" : "text"
+            },
+            "search" : {
+              "search_analyzer" : "my_customer_ngram_analyzer",
+              "analyzer" : "my_customer_ngram_analyzer",
+              "type" : "text"
+            }
+          }
+        },
+        "fullOrgCode" : {
+          "type" : "keyword",
+          "fields" : {
+            "contains" : {
+              "type" : "text"
+            },
+            "search" : {
+              "search_analyzer" : "my_customer_ngram_analyzer",
+              "analyzer" : "my_customer_ngram_analyzer",
+              "type" : "text"
+            }
+          }
+        },
+        "strLocale" : {
+          "type" : "keyword",
+          "fields" : {
+            "contains" : {
+              "type" : "text"
+            },
+            "search" : {
+              "search_analyzer" : "my_customer_ngram_analyzer",
+              "analyzer" : "my_customer_ngram_analyzer",
+              "type" : "text"
+            }
+          }
+        },
+        "uuid" : {
+          "type" : "keyword",
+          "fields" : {
+            "contains" : {
+              "type" : "text"
+            },
+            "search" : {
+              "search_analyzer" : "my_customer_ngram_analyzer",
+              "analyzer" : "my_customer_ngram_analyzer",
+              "type" : "text"
+            }
+          }
+        },
+        "deviceId" : {
+          "type" : "keyword",
+          "fields" : {
+            "contains" : {
+              "type" : "text"
+            },
+            "search" : {
+              "search_analyzer" : "my_customer_ngram_analyzer",
+              "analyzer" : "my_customer_ngram_analyzer",
+              "type" : "text"
+            }
+          }
+        },
+        "deviceName" : {
+          "type" : "keyword",
+          "fields" : {
+            "contains" : {
+              "type" : "text"
+            },
+            "search" : {
+              "search_analyzer" : "my_customer_ngram_analyzer",
+              "analyzer" : "my_customer_ngram_analyzer",
+              "type" : "text"
+            }
+          }
+        },
+        "version" : {
+          "type" : "keyword",
+          "fields" : {
+            "contains" : {
+              "type" : "text"
+            },
+            "search" : {
+              "search_analyzer" : "my_customer_ngram_analyzer",
+              "analyzer" : "my_customer_ngram_analyzer",
+              "type" : "text"
+            }
+          }
+        },
+        "pushId" : {
+          "type" : "keyword",
+          "fields" : {
+            "contains" : {
+              "type" : "text"
+            },
+            "search" : {
+              "search_analyzer" : "my_customer_ngram_analyzer",
+              "analyzer" : "my_customer_ngram_analyzer",
+              "type" : "text"
+            }
+          }
+        },
+        "osKind" : {
+          "type" : "keyword",
+          "fields" : {
+            "contains" : {
+              "type" : "text"
+            },
+            "search" : {
+              "search_analyzer" : "my_customer_ngram_analyzer",
+              "analyzer" : "my_customer_ngram_analyzer",
+              "type" : "text"
+            }
+          }
+        },
+        "state" : {
+          "null_value" : true,
+          "type" : "boolean"
+        }
+      }
+    },
+    "aliases" : { }
+}

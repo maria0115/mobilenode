@@ -1,0 +1,2261 @@
+[
+    {
+        "@name": "H_NONARCHIVEATTACHMENTS",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "1"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "RR2",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Classification",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "ConfidentialString",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "DesignURL",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "RestrictToInviteList",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "WhiteBoardContent",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "MeetingType",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "AppointmentType",
+        "textlist": {
+            "text": [
+                {
+                    "0": "3"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "ApptUNIDURL",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "AudioVideoFlags",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Categories",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "DeliveryPriority",
+        "textlist": {
+            "text": [
+                {
+                    "0": "N"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "DeliveryReport",
+        "textlist": {
+            "text": [
+                {
+                    "0": "B"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Encrypt",
+        "textlist": {
+            "text": [
+                {
+                    "0": "0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_AlarmOn",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Importance",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "LocalTimeZone",
+        "textlist": {
+            "text": [
+                {
+                    "0": "Z=-9$DO=0$ZX=59$ZN=Korea"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Location",
+        "textlist": {
+            "text": [
+                {
+                    "0": "경지 팀 회의실"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "MeetingPassword",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "OnlineMeeting",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "RemoveAtClose",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "RestrictAttendence",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "ReturnReceipt",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_PlainEditor",
+        "textlist": {
+            "text": [
+                {
+                    "0": "0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "SametimeType",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "SaveOptions",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Sign",
+        "textlist": {
+            "text": [
+                {
+                    "0": "0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STConfPhone",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STPermissions",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STPermPresent",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STRecordMeeting",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STRoomName",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STSortOrder",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STUnyteConferenceID",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STUnyteConferenceURL",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "SvcSelection",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "MIME_VERSION",
+        "textlist": {
+            "text": [
+                {
+                    "0": "1.0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "OrgConfidential",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Room",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "RequiredResources",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "OnlinePlace",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Presenters",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "MailFirstPass",
+        "textlist": {
+            "text": [
+                {
+                    "0": "1"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "APPTUNID",
+        "textlist": {
+            "text": [
+                {
+                    "0": "F42E3761FCC7781D49258751001EEF77"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "SEQUENCENUM",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "1"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "UPDATESEQ",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "1"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "StartTimeZone",
+        "textlist": {
+            "text": [
+                {
+                    "0": "Z=-9$DO=0$ZX=59$ZN=Korea"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "EndTimeZone",
+        "textlist": {
+            "text": [
+                {
+                    "0": "Z=-9$DO=0$ZX=59$ZN=Korea"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "StartDate",
+        "datetimelist": {
+            "datetime": [
+                {
+                    "0": "20210915"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STARTTIME",
+        "datetimelist": {
+            "datetime": [
+                {
+                    "0": "T140000,00"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STARTDATETIME",
+        "datetimelist": {
+            "datetime": [
+                {
+                    "0": "20210915T050000,00Z"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "EndDate",
+        "datetimelist": {
+            "datetime": [
+                {
+                    "0": "20210915"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "ENDTIME",
+        "datetimelist": {
+            "datetime": [
+                {
+                    "0": "T150000,00"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "ENDDATETIME",
+        "datetimelist": {
+            "datetime": [
+                {
+                    "0": "20210915T060000,00Z"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "ORGTABLE",
+        "textlist": {
+            "text": [
+                {
+                    "0": "C0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "AltFrom",
+        "textlist": {
+            "text": [
+                {
+                    "0": "CN=박광순/OU=209003/O=SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "CHAIR",
+        "textlist": {
+            "text": [
+                {
+                    "0": "CN=박광순/OU=209003/O=SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "AltChair",
+        "textlist": {
+            "text": [
+                {
+                    "0": "CN=박광순/OU=209003/O=SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "RequiredAttendees",
+        "textlist": {
+            "text": [
+                {
+                    "0": "진성원/204010/SIS@SIS"
+                },
+                {
+                    "0": "KIM.HYEONDAM/ksis211022/SIS@SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "AltRequiredNames",
+        "textlist": {
+            "text": [
+                {
+                    "0": "진성원/204010/SIS@SIS"
+                },
+                {
+                    "0": "KIM.HYEONDAM/ksis211022/SIS@SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "INETREQUIREDNAMES",
+        "textlist": {
+            "text": [
+                {
+                    "0": "zzinjin@saerom.co.kr"
+                },
+                {
+                    "0": "guseka0131@saerom.co.kr"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STORAGEREQUIREDNAMES",
+        "textlist": {
+            "text": [
+                {
+                    "0": "1"
+                },
+                {
+                    "0": "1"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "OptionalAttendees",
+        "textlist": {
+            "text": [
+                {
+                    "0": "배선일/209002/SIS@SIS"
+                },
+                {
+                    "0": "MOON HYEONIL/ksis213008/SIS@SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "AltOptionalNames",
+        "textlist": {
+            "text": [
+                {
+                    "0": "배선일/209002/SIS@SIS"
+                },
+                {
+                    "0": "MOON HYEONIL/ksis213008/SIS@SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "INETOPTIONALNAMES",
+        "textlist": {
+            "text": [
+                {
+                    "0": "sunil66@saerom.co.kr"
+                },
+                {
+                    "0": "himoon@saerom.co.kr"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STORAGEOPTIONALNAMES",
+        "textlist": {
+            "text": [
+                {
+                    "0": "1"
+                },
+                {
+                    "0": "1"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "POSTEDDATE",
+        "datetimelist": {
+            "datetime": [
+                {
+                    "0": "20210915T053754,27Z"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Principal",
+        "textlist": {
+            "text": [
+                {
+                    "0": "CN=박광순/OU=209003/O=SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "CALENDARDATETIME",
+        "datetimelist": {
+            "datetime": [
+                {
+                    "0": "20210915T050000,00Z"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "_VIEWICON",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "158"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Subject",
+        "textlist": {
+            "text": [
+                {
+                    "0": "회의 TEST 0915-001"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "From",
+        "textlist": {
+            "text": [
+                {
+                    "0": "CN=박광순/OU=209003/O=SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Form",
+        "textlist": {
+            "text": [
+                {
+                    "0": "Appointment"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "ExcludeFromView",
+        "textlist": {
+            "text": [
+                {
+                    "0": "D"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "FYIAttendees",
+        "textlist": {
+            "text": [
+                {
+                    "0": "박상기/215019/SIS@SIS"
+                },
+                {
+                    "0": "이정인/216006/SIS@SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "AltFYINames",
+        "textlist": {
+            "text": [
+                {
+                    "0": "박상기/215019/SIS@SIS"
+                },
+                {
+                    "0": "이정인/216006/SIS@SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "INETFYINAMES",
+        "textlist": {
+            "text": [
+                {
+                    "0": "pak81@saerom.co.kr"
+                },
+                {
+                    "0": "jeongin@saerom.co.kr"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "STORAGEFYINAMES",
+        "textlist": {
+            "text": [
+                {
+                    "0": "1"
+                },
+                {
+                    "0": "1"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "MAILOPTIONS",
+        "textlist": {
+            "text": [
+                {
+                    "0": "0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "PATH_INFO",
+        "text": {
+            "0": "/mail/209003.nsf/($Calendar)/F42E3761FCC7781D49258751001EEF77/?OpenDocument&Form=l_JSVars&PresetFields=s_HandleAttachmentNames;1,s_HandleMime;1,s_OpenUI;1,s_HideRemoteImage;1,s_ProcessRR;1"
+        }
+    },
+    {
+        "@name": "QUERY_STRING",
+        "text": {
+            "0": "OpenDocument&Form=l_JSVars&PresetFields=s_HandleAttachmentNames;1,s_HandleMime;1,s_OpenUI;1,s_HideRemoteImage;1,s_ProcessRR;1"
+        }
+    },
+    {
+        "@name": "REQUEST_METHOD",
+        "text": {
+            "0": "GET"
+        }
+    },
+    {
+        "@name": "s_BrowserSuffix",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_IE8",
+        "text": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "s_IE11",
+        "text": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "s_Safari",
+        "text": {
+            "0": "1"
+        }
+    },
+    {
+        "@name": "s_Gecko",
+        "text": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "s_Mac",
+        "text": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "s_UNH",
+        "text": {
+            "0": "7q67jrn2p2bhf664lu3n5podch0"
+        }
+    },
+    {
+        "@name": "h_CurrentSkinName",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_CurrentSkinType",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_CustomCalCSS",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_Name",
+        "text": {
+            "0": "회의 TEST 0915-001"
+        }
+    },
+    {
+        "@name": "h_SetEditCurrentScene",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_SetEditNextScene",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_EditAction",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_SetErrorScene",
+        "text": {
+            "0": "h_HaikuError"
+        }
+    },
+    {
+        "@name": "h_EditSceneTrail",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_ReturnToPage",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_SetReturnURL",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_NotesForm",
+        "text": {
+            "0": "Appointment"
+        }
+    },
+    {
+        "@name": "s_SequoiaSwitchArg",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_MailerPrefix",
+        "text": {
+            "0": "IBM iNotes ($HaikuForm 901FP10INHF164)"
+        }
+    },
+    {
+        "@name": "l_SetErrorScene",
+        "text": {
+            "0": "l_HaikuError"
+        }
+    },
+    {
+        "@name": "h_SetReadScene",
+        "text": {
+            "0": "s_StdPageRead"
+        }
+    },
+    {
+        "@name": "h_SetEditScene",
+        "text": {
+            "0": "s_StdPageEdit"
+        }
+    },
+    {
+        "@name": "s_SubScene",
+        "text": {
+            "0": "s_Appointment"
+        }
+    },
+    {
+        "@name": "l_SetReadScene",
+        "text": {
+            "0": "l_StdPageRead"
+        }
+    },
+    {
+        "@name": "l_SetEditScene",
+        "text": {
+            "0": "l_StdPageEdit"
+        }
+    },
+    {
+        "@name": "l_SubScene",
+        "text": {
+            "0": "l_Appointment"
+        }
+    },
+    {
+        "@name": "HTTP_USER_AGENT",
+        "text": {
+            "0": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36"
+        }
+    },
+    {
+        "@name": "l_DocumentDictionary",
+        "text": {
+            "0": "1"
+        }
+    },
+    {
+        "@name": "h_SetPublishAction",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_DocCreated",
+        "datetimelist": {
+            "datetime": [
+                {
+                    "0": "20210915T053753,83Z"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_DocSize",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "29139"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_ModifiedDate",
+        "datetimelist": {
+            "datetime": [
+                {
+                    "0": "20210915T053754,47Z"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_FromMail",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_SortBy",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_ColPos",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_UnreadOnly",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_ViewName",
+        "text": {
+            "0": "($Calendar)"
+        }
+    },
+    {
+        "@name": "s_NavTo",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_NavBefore",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_SearchString",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_NoAdjWin",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_WelcomeID",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_NoMarkRead",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_SMRUC",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "BodyIsMIME",
+        "textlist": {
+            "text": [
+                {
+                    "0": "1"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "l_GetBodyEE",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "hFailedUsers",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "JITUsers",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "NotesRecips",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "SMIMERecips",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "NoDomRecips",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "TrustInetCerts",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "SMIMESign",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_PageUnid",
+        "textlist": {
+            "text": [
+                {
+                    "0": "F42E3761FCC7781D49258751001EEF77"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Sealed",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "DigitalSignature",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                },
+                {
+                    "0": "0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_BeingEdited",
+        "number": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "h_AutoEditMode",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "UpdatedBy",
+        "textlist": {
+            "text": [
+                {
+                    "0": "CN=박광순/OU=209003/O=SIS"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_HasStoredForm",
+        "textlist": {
+            "text": [
+                {
+                    "0": "0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_IsSaaS",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_CustOpenInNotes",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_FeatureOpenDocInNotes",
+        "textlist": {
+            "text": [
+                {
+                    "0": "1"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "iWAProfileExists",
+        "text": {
+            "0": "1"
+        }
+    },
+    {
+        "@name": "tmpResType",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "CustomNameFormatEnabled",
+        "text": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "h_SetSaveDoc",
+        "number": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "x_AlarmTime",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "x_DelayedImagesOK",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "EnterSendTo",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "EnterCopyTo",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "EnterBlindCopyTo",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_MeetingCommand",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "ThisStartDate",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "ThisEndDate",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "ThisInstDate",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "SMessage",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "tmpLocalizedKeywords",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "tmpDelegee",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "tmpAltDelegeeName",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "tmpLangDelegee",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "tmpNamesLookup",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "tmpDoNotProcess",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "x_HasLogo",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_SetPublishToFolder",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "tmpNewDoc",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "BookFreeTime",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "Broadcast",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "x_BusyPriority",
+        "text": {
+            "0": "1"
+        }
+    },
+    {
+        "@name": "x_PublicAccess",
+        "text": {
+            "0": "1"
+        }
+    },
+    {
+        "@name": "x_CSCorrectBody",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "x_CSFlags",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "x_Ref",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "x_IsDraft",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_RescheduleWhich",
+        "text": {
+            "0": "1"
+        }
+    },
+    {
+        "@name": "NoticeType",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "DPABAppendItems",
+        "textlist": {
+            "text": [
+                {
+                    "0": "RequiredAttendees"
+                },
+                {
+                    "0": "OptionalAttendees"
+                },
+                {
+                    "0": "FYIAttendees"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "tmpRemoveNames",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "tmpRemoveRRNames",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "tmpRemoveResource",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "RoomToReserve",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Resources",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "OnlinePlaceToReserve",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Alarms",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "x_Alarm",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "x_AlarmMemoOptions",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "x_AlarmOffset",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "-30"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "x_AlarmDescription",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "x_AlarmUnit",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "x_AlarmSound",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "Repeats",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "RepeatFromEnd",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "DocCanBeOpened",
+        "text": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "RepeatAdjust",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "RepeatStartDate",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "RepeatUntil",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "RepeatCustom",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "RepeatInterval",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "RepeatUnit",
+        "text": {
+            "0": "W"
+        }
+    },
+    {
+        "@name": "RepeatHow",
+        "text": {
+            "0": "U"
+        }
+    },
+    {
+        "@name": "RepeatFor",
+        "number": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "RepeatForUnit",
+        "text": {
+            "0": "W"
+        }
+    },
+    {
+        "@name": "RepeatWeekends",
+        "text": {
+            "0": "D"
+        }
+    },
+    {
+        "@name": "s_ParentRepeatDates",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "NewStartDate",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "NewEndDate",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "CalendarOwner",
+        "text": {
+            "0": "CN=박광순/OU=209003/O=SIS"
+        }
+    },
+    {
+        "@name": "x_LangFrom",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "x_NameLanguageTags",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "x_LangChair",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "x_AltPrincipal",
+        "text": {
+            "0": "CN=박광순/OU=209003/O=SIS"
+        }
+    },
+    {
+        "@name": "x_LangPrincipal",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_UsePlainText",
+        "text": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "s_UsePlainTextAndHTML",
+        "text": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "BodyImgCids",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "HeaderImgCids",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "FooterImgCids",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_BodyCid",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_StatusUpdateCid",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "RichTextItemNames",
+        "textlist": {
+            "text": [
+                {
+                    "0": "Body"
+                },
+                {
+                    "0": "Header"
+                },
+                {
+                    "0": "Footer"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_ImageUseCidRef",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_EmbeddedImageInfo",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_EmbeddedImageInfoLen",
+        "number": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "s_CidImageInfo",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_ConvertImage",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_ConvertQuickrIconImageInfo",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_NotesLinkIconInfo",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_DataUriInfo",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_FieldFormat",
+        "textlist": {
+            "text": [
+                {
+                    "0": "h_UseBodyItem"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_RichTextItem",
+        "textlist": {
+            "text": [
+                {
+                    "0": "BodyHtml"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_RichTextItem2",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_RichTextItem3",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_ActionRichTextItem",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_AttachmentTimes",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_EditorBgColor",
+        "textlist": {
+            "text": [
+                {
+                    "0": "#d6dfef"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_CurrentPosition",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_LinkURL",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_LinkTitle",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_ImageURL",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_ImageCount",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_NewImageCount",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_SetImageSync",
+        "text": {
+            "0": "0"
+        }
+    },
+    {
+        "@name": "h_NumOfPageText",
+        "number": {
+            "0": "1"
+        }
+    },
+    {
+        "@name": "h_PageText",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "NumOfBodyPT",
+        "number": {
+            "0": "1"
+        }
+    },
+    {
+        "@name": "BodyPT",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_NumAttachments",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "2"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_AttachmentNames",
+        "textlist": {
+            "text": [
+                {
+                    "0": "협업사업부-일일업무보고서-OOO주임-2021.05.01.docx"
+                },
+                {
+                    "0": "폴더 형식.txt"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_AttachmentNamesAlt",
+        "text": {
+            "0": "QPNULL"
+        }
+    },
+    {
+        "@name": "h_AttachmentLengths",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "22089"
+                },
+                {
+                    "0": "423"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_AttachmentLengthsAlt",
+        "text": {
+            "0": "QPNULL"
+        }
+    },
+    {
+        "@name": "s_AttachmentTimesAlt",
+        "text": {
+            "0": "QPNULL"
+        }
+    },
+    {
+        "@name": "s_AllAttachmentNames",
+        "textlist": {
+            "text": [
+                {
+                    "0": "협업사업부-일일업무보고서-OOO주임-2021.05.01.docx"
+                },
+                {
+                    "0": "폴더 형식.txt"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_AllAttachmentLengths",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "22089"
+                },
+                {
+                    "0": "423"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "h_AttachmentImageCount",
+        "numberlist": {
+            "number": [
+                {
+                    "0": "0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_AttachmentTimes",
+        "textlist": {
+            "text": [
+                {
+                    "0": "20210915T053753,91Z;20210915T053754,09Z"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_AttachmentLinks",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_AttachmentFileItemNames",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_AttachmentRealNames",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "h_AttachmentAppleTypes",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "Response",
+        "textlist": {
+            "text": [
+                {
+                    "0": "0"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_DisplayInetAddress",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "s_LookupInetAddress",
+        "text": {
+            "0": ""
+        }
+    },
+    {
+        "@name": "tmpUseInLineHtml",
+        "textlist": {
+            "text": [
+                {
+                    "0": "FALSE"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "tmpUseIFrameHtml",
+        "textlist": {
+            "text": [
+                {
+                    "0": "FALSE"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "tmpHideImage",
+        "textlist": {
+            "text": [
+                {
+                    "0": "FALSE"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "tmpHideRemoteImage",
+        "textlist": {
+            "text": [
+                {
+                    "0": "TRUE"
+                }
+            ]
+        }
+    },
+    {
+        "@name": "tmpHTMLOptions",
+        "textlist": {
+            "text": [
+                {
+                    "0": ""
+                }
+            ]
+        }
+    },
+    {
+        "@name": "s_Charset",
+        "text": {
+            "0": "UTF-8"
+        }
+    }
+]

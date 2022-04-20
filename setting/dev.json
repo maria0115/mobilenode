@@ -1,0 +1,145 @@
+{
+    "port": 4001,
+    "version": "v7",
+    "default_category": [],
+    "default_field": [],
+    "default_index": {
+        "v7": "swg60.emate.mobile"
+    },
+    "keyword_index": {
+        "v7": "searchkeyword"
+    },
+    "submitHost": "gw.kogene.co.kr",
+    "submitHost_desc": "formdata 전송을위한 host",
+    "host": "https://gw.kogene.co.kr",
+    "host_webserver": "http://kgapp.kogene.co.kr:8081",
+    "host_desc": "서버 주소",
+    "elastic_address": {
+        "v7": "http://101.79.9.153:19200"
+    },
+    "elastic_id": "elastic",
+    "elastic_pw": "123!@#qwe",
+    "elasticPersonDB": "m60.orginfo",
+    "elasticPersonDB_desc": "엘라스틱 직원정보 DB name",
+    "domino": {
+        "domain": "gw.kogene.co.kr",
+        "webadminid": "master",
+        "ltpa_dominosecret": "vLX4QMchdJ7zZFo1BA4ltZW1TDs=",
+        "ltpa_dominosecret_secription": "인터넷사이트문서 SSO 문서를 DocViewer로 복사하여 'LTPA_DominoSecret' 필드값"
+    },
+    "smartView_applicationName":"approcomplete",
+    "smartView_applicationName_desc":"스마트뷰 application 이름",
+    "smartView_filterName1":"sabun",
+    "smartView_filterName1_desc":"스마트뷰 사번 필드 이름",
+    "user_push":"user_interface",
+    "user_push_desc":"푸시 알림 수신자 정보 구하기",
+    "appServer":"https://mgw.kogene.co.kr",
+    "appServer_desc":"앱 푸쉬할때 쓸 url",
+    "mailUrl":"kgmail.kogene.co.kr",
+    "mailUrl_desc":"메일 url",
+    "freeBoardLnb":"board_W0001",
+    "freeBoardLnb_desc":"게시판 lnbid",
+    "freeBoardDB":"board.nsf",
+    "freeBoardDB_desc":"게시판 DB이름",
+    "freeBoardReplyDB":"board_log.nsf",
+    "freeBoardReplyDB_desc":"게시판 댓글DB이름",
+
+
+
+
+    
+    "port": 4001,
+    "version": "v7",
+    "default_category": [],
+    "default_field": [],
+    "default_index": {
+        "v7": "swg60.emate.mobile"
+    },
+    "keyword_index": {
+        "v7": "searchkeyword"
+    },
+    "submitHost": "swg60.saerom.co.kr",
+    "submitHost_desc": "formdata 전송을위한 host",
+    "host": "http://swg60.saerom.co.kr",
+    "host_webserver": "http://swg60appl.saerom.co.kr",
+    "host_desc": "서버 주소",
+    "elastic_address": {
+        "v7": "http://125.7.235.50:19200"
+    },
+    "elastic_id": "elastic",
+    "elastic_pw": "123!@#qwe",
+    "elasticPersonDB": "m60.orginfo",
+    "elasticPersonDB_desc": "엘라스틱 직원정보 DB name",
+    "domino": {
+        "domain": "saerom.co.kr",
+        "webadminid": "parking7",
+        "ltpa_dominosecret": "zBKtiQkKVJfd+fr9iogt8gCCvv8=",
+        "ltpa_dominosecret_secription": "인터넷사이트문서 SSO 문서를 DocViewer로 복사하여 'LTPA_DominoSecret' 필드값"
+    },
+    "smartView_applicationName":"approdemo",
+    "smartView_applicationName_desc":"스마트뷰 application 이름",
+    "smartView_filterName1":"authorempno",
+    "smartView_filterName1_desc":"스마트뷰 사번 필드 이름",
+    "user_push":"user_interface",
+    "user_push_desc":"푸시 알림 수신자 정보 구하기",
+    "appServer":"https://m60.saerom.co.kr",
+    "appServer_desc":"앱 푸쉬할때 쓸 url",
+    "mailUrl":"swg60mail.saerom.co.kr",
+    "mailUrl_desc":"메일 url",
+    "freeBoardLnb":"freebrd_sis_W0001",
+    "freeBoardLnb_desc":"게시판 lnbid",
+    "freeBoardDB":"freebrd_sis.nsf",
+    "freeBoardDB_desc":"게시판 DB이름",
+    "freeBoardReplyDB":"freebrd_sis_log.nsf",
+    "freeBoardReplyDB_desc":"게시판 댓글DB이름",
+
+
+    
+
+
+    "port": 4001,
+    "version": "v7",
+    "default_category": [],
+    "default_field": [],
+    "default_index": {
+        "v7": "swg60.emate.mobile"
+    },
+    "keyword_index": {
+        "v7": "searchkeyword"
+    },
+    "submitHost": "dswg60.saerom.co.kr",
+    "submitHost_desc": "formdata 전송을위한 host",
+    "host": "http://dswg60.saerom.co.kr",
+    "host_webserver": "http://dswg60appl.saerom.co.kr",
+    "host_desc": "서버 주소",
+    "elastic_address": {
+        "v7": "http://125.7.235.27:19200"
+    },
+    "elastic_id": "elastic",
+    "elastic_pw": "123!@#qwe",
+    "elasticPersonDB": "m60.orginfo",
+    "elasticPersonDB_desc": "엘라스틱 직원정보 DB name",
+    "domino": {
+        "domain": "saerom.co.kr",
+        "webadminid": "parking7",
+        "ltpa_dominosecret": "zBKtiQkKVJfd+fr9iogt8gCCvv8=",
+        "ltpa_dominosecret_secription": "인터넷사이트문서 SSO 문서를 DocViewer로 복사하여 'LTPA_DominoSecret' 필드값"
+    },
+    "smartView_applicationName":"approcomplete",
+    "smartView_applicationName_desc":"스마트뷰 application 이름",
+    "smartView_filterName1":"sabun",
+    "smartView_filterName1_desc":"스마트뷰 사번 필드 이름",
+    "user_push":"user_interface",
+    "user_push_desc":"푸시 알림 수신자 정보 구하기",
+    "appServer":"https://m60.saerom.co.kr",
+    "appServer_desc":"앱 푸쉬할때 쓸 url",
+    "mailUrl":"dswg60mail.saerom.co.kr",
+    "mailUrl_desc":"메일 url",
+    "freeBoardLnb":"freebrd_sis_W0001",
+    "freeBoardLnb_desc":"게시판 lnbid",
+    "freeBoardDB":"freebrd_sis.nsf",
+    "freeBoardDB_desc":"게시판 DB이름",
+    "freeBoardReplyDB":"freebrd_sis_log.nsf",
+    "freeBoardReplyDB_desc":"게시판 댓글DB이름",
+
+}
